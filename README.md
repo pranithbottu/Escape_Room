@@ -2,14 +2,6 @@
 This contains a side project I did in Unity using C#. I created an escape room in virtual reality successfully.
 
 
-## Contributors
-* Yuming Li
-* Alexandre Geubelle
-* David Terpay
-* Pranith Bottu
-* PM: Hana Rimawi
-
-
 ## Project Overview
 Our CS 196 escape room project was an opportunity to explore the possibilities in Virtual Reality through the Unity3D engine. We created a pirate ship themed escape room, integrating it into VR. The game can be used with an HTC Vive headset. 
 
