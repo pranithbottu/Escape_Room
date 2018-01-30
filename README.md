@@ -3,11 +3,11 @@ This contains a side project I did in Unity using C#. I created an escape room i
 
 
 ## Project Overview
-Our CS 196 escape room project was an opportunity to explore the possibilities in Virtual Reality through the Unity3D engine. We created a pirate ship themed escape room, integrating it into VR. The game can be used with an HTC Vive headset. 
+My CS 196 escape room project was an opportunity to explore the possibilities in Virtual Reality through the Unity3D engine. We created a pirate ship themed escape room, integrating it into VR. The game can be used with an HTC Vive headset. 
 
 
 ## Current Project Status
-We currently have a fully built scene for the player to escape from. There is movement using HTC Vive controllers and interaction with certain objects. These interactions include the ability to pick up objects and sound effects triggered when the player runs into items in the game.
+I currently have a fully built scene for the player to escape from. There is movement using HTC Vive controllers and interaction with certain objects. These interactions include the ability to pick up objects and sound effects triggered when the player runs into items in the game.
 
 
 ## Future Project Changes
