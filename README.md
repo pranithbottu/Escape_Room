@@ -14,7 +14,7 @@ I currently have a fully built scene for the player to escape from. There is mov
 Possible future additions to the game would be more advanced gameplay and puzzles required to escape. Further integration is required to show meaningful messages to the user to help more easily understand the scenario playing out in the game. Finally, there is always the possiblilty of more levels and gameplay that can be added.
 
 
-## Issues We Faced
+## Issues I Faced
 * Difficulty with merging Unity files in Github
 * Very little starting knowledge of Unity or Virtual Reality
 * Limited access to VR equipment until later in the semester
