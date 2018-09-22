@@ -18,3 +18,7 @@ Possible future additions to the game would be more advanced gameplay and puzzle
 * Difficulty with merging Unity files in Github
 * Very little starting knowledge of Unity or Virtual Reality
 * Limited access to VR equipment until later in the semester
+
+
+## YouTube Link of Functionality
+https://www.youtube.com/watch?v=JWedewEWgqM
